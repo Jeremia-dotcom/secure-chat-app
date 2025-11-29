@@ -2,6 +2,8 @@
 
 A real-time encrypted chat application built with Java Swing, featuring end-to-end AES encryption and multi-client support.
 
+**University Group Project** - Developed as part of Computer Networks course at Cape Peninsula University of Technology
+
 ## 🔒 Features
 
 - **End-to-End Encryption**: AES-128 encryption for secure messaging
@@ -123,23 +125,29 @@ java ChatFrame
 - [ ] Voice/video chat integration
 - [ ] Mobile app version
 
+## 🎓 Project Information
+
+**Course**: Computer Networks  
+**Institution**: Cape Peninsula University of Technology  
+**Project Type**: Group Project  
+**Duration**: September 2025 - October 2025
+
+This application was developed collaboratively as part of our Computer Networks coursework, demonstrating practical implementation of network protocols, multi-threaded programming, and encryption techniques.
+
+## 🙏 Acknowledgments
+
+- Built as part of Computer Networks course requirements
+- Supervised by [Professor/Lecturer Name], CPUT
+- Inspired by modern messaging applications
+- Thanks to the Java community for excellent documentation
+- Special thanks to our course instructor for guidance on network security concepts
+
 ## 📝 License
 
 This project is open source and available for educational purposes.
 
-## 👨‍💻 Author
-
-**Ntshwane Jeremia Mphorane**
-- GitHub: [@jeremia-dotcom](https://github.com/jeremia-dotcom)
-- Portfolio: [jerere's portfolio](https://main.d2k1aud08zsf7o.amplifyapp.com/))
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
-
-## 🙏 Acknowledgments
-
-- Built as part of learning secure communication protocols
-- Inspired by modern messaging applications
-- Thanks to the Java community for excellent documentation
-
 ---
 
-**Note**: This is an educational project. For production use, implement proper key exchange protocols (like Diffie-Hellman), user authentication, and secure key storage.
+**Note**: This is an educational group project developed for academic purposes. For production use, implement proper key exchange protocols (like Diffie-Hellman), user authentication, and secure key storage.
+
+**Academic Integrity Statement**: This project was completed in accordance with CPUT's academic integrity policies and represents original work by the team members listed above.
