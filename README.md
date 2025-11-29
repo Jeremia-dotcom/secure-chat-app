@@ -59,7 +59,8 @@ java ChatFrame
 ![Chat Interface](screenshots/chat-interface.png)
 
 ### Encrypted Messages
-![Encrypted Message](screenshots/encrypted-message.png)
+![Encrypted Message](screenshots/encrypted-message-1.png)
+![Encrypted Message](screenshots/encrypted-message-2.png)
 
 ## 🏗️ Architecture
 
